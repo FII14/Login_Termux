@@ -1,6 +1,8 @@
 # Login Termux
 
+![gambar](https://github.com/FII14/login-termux/blob/main/gif.gif)
 
+## Cara menginstal 
 1. Buka aplikasi Termux
 2. Perbarui repositori Termux dengan mengetikkan perintah: `pkg update`.
 3. Install Git untuk mengkloning repositori `Login_Termux` dengan mengetikkan perintah: `pkg install git`.
