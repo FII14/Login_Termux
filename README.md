@@ -20,3 +20,5 @@ Login Termux adalah skrip bash yang digunakan untuk membuat sistem login sederha
 13. Simpan hasil konfigurasi dengan mengetikkan tombol `ctrl + x` lalu `y` tekan `Enter`.
 14. Tutup aplikasi Termux, dan masuk kembali ke aplikasi Termux.
 15. Selesai.
+
+Jika Anda mengalami kendala selama proses instalasi, Anda dapat mencari bantuan atau panduan lebih lanjut [disini](https://github.com/FII14/Login_Termux/issues).
