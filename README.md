@@ -3,9 +3,9 @@
 
 1. Buka aplikasi Termux
 2. Perbarui repositori Termux dengan mengetikkan perintah: `pkg update`.
-3. Install Git untuk mengkloning repositori Login_Termux dengan mengetikkan perintah: `pkg install git`.
-4. Kloning repositori Login_Termux dengan mengetikkan perintah: `git clone https://github.com/FII14/Login_Termux`.
-5. Pindah ke direktori Login_Termux dengan mengetikkan perintah: `cd Login_Termux`.
+3. Install Git untuk mengkloning repositori `Login_Termux` dengan mengetikkan perintah: `pkg install git`.
+4. Kloning repositori `Login_Termux` dengan mengetikkan perintah: `git clone https://github.com/FII14/Login_Termux`.
+5. Pindah ke direktori `Login_Termux` dengan mengetikkan perintah: `cd Login_Termux`.
 6. Pindahkan file `login_termux.sh` menjadi satu direktori dengan file `/data/data/com.termux/files/usr/etc/bash.bashrc` dengan mengetikkan perintah: `mv login_termux.sh /data/data/com.termux/files/usr/etc/`.
 7. Pindah ke direktori `/data/data/com.termux/files/usr/etc/` untuk melakukan konfigurasi.
 8. Konfigurasi file `login_termux.sh` dengan mengetikkan perintah: `nano login_termux.sh`.
