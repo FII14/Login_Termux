@@ -23,6 +23,7 @@ done
 
 # Mencetak baris kosong untuk pemisah
 echo ""
+echo ""
 
 # Username dan password yang benar untuk login
 username_valid="<_username_>"
