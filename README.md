@@ -11,7 +11,7 @@ Login Termux adalah skrip bash yang digunakan untuk membuat sistem login sederha
 4. Kloning repositori `Login_Termux` dengan mengetikkan perintah: `git clone https://github.com/FII14/Login_Termux`.
 5. Pindah ke direktori `Login_Termux` dengan mengetikkan perintah: `cd Login_Termux`.
 6. Pindahkan file `login_termux.sh` menjadi satu direktori dengan file `/data/data/com.termux/files/usr/etc/bash.bashrc` dengan mengetikkan perintah: `mv login_termux.sh /data/data/com.termux/files/usr/etc/`.
-7. Pindah ke direktori `/data/data/com.termux/files/usr/etc/` untuk melakukan konfigurasi.
+7. Pindah ke direktori `/data/data/com.termux/files/usr/etc/` untuk melakukan konfigurasi. dengan mengetikkan perintah: `cd /data/data/com.termux/files/usr/etc/`.
 8. Konfigurasi file `login_termux.sh` dengan mengetikkan perintah: `nano login_termux.sh`.
 9. Edit nilai variabel username dan password sesuai dengan yang kalian inginkan.
 10. Simpan hasil konfigurasi dengan mengetikkan perintah: `ctrl + x` lalu `y` tekan `Enter`.
