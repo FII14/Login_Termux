@@ -1,5 +1,6 @@
 #!/bin/bash
 # Login Termux
+# Pembuat: Rofi
 
 # Mengabaikan sinyal SIGINT (Ctrl+C) dan SIGTSTP (Ctrl+Z)
 trap '' SIGINT SIGTSTP
