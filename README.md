@@ -2,6 +2,8 @@
 
 ![gambar](https://github.com/FII14/login-termux/blob/main/gif.gif)
 
+Login Termux adalah skrip bash yang digunakan untuk membuat sistem login sederhana di Termux.
+
 ## Cara menginstal 
 1. Buka aplikasi Termux
 2. Perbarui repositori Termux dengan mengetikkan perintah: `pkg update`.
