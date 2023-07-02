@@ -12,7 +12,7 @@
 9. Edit nilai variabel username dan password sesuai dengan yang kalian inginkan.
 10. Simpan hasil konfigurasi dengan mengetikkan perintah: `ctrl + x` lalu `y` tekan `Enter`.
 11. Konfigurasi file `bash.bashrc` dengan mengetikkan perintah: `nano bash bashrc`
-12. tambahkan konfigurasi `bash /data/data/com.termux/files/home/Login_Termux/login_termux.bash` di bagian paling bawah pada file `bash.bashrc`
+12. tambahkan konfigurasi `bash /data/data/com.termux/files/usr/etc/login_termux.bash` di bagian paling bawah pada file `bash.bashrc`
 13. Simpan hasil konfigurasi dengan mengetikkan tombol `ctrl + x` lalu `y` tekan `Enter`
 14. Tutup aplikasi Termux, dan masuk kembali ke aplikasi Termux.
 15. Selesai.
